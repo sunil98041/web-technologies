@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+h1{
+    background-color: beige;
+    color: black;
+    margin: 10px;}
+p1{
+    background-color:white;
+    color: black;
+    padding:10px;
+    margin: 10px;
+}
+h2{
+    background-color: brown;
+    color: black;
+    font-size: 15px;
+}
+p2{
+    background-color: white;
+    color: #000;
+    font-size: 10px;
+}
+h3{
+    background-color: azure;
+    color: rgb(4, 167, 93);
+    font-size: 14px;
+}
+p3{
+    background-color: black;
+    color: azure;
+    font-size: 10px;
+}
+h4{
+    background-color: azure;
+    color: rgb(200, 18, 18);
+    font-size: 13px;
+}
+P4{
+    background-color: #000;
+    color: aliceblue;
+    font-size: 10px;
+}
+h5{
+    background-color: #000;
+    color: yellow;
+    font-size: 12px;
+}
+p5{
+    background-color: #000;
+    color: white;
+    font-size: 10px;
+}
+h6{
+    background-color: #000;
+    color: white;
+    font-size: 11px;
+}
+p6{
+    background-color: #000;
+    color: white;
+}
