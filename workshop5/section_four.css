@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: rgb(255, 0, 144);
+}
+h1{
+    padding: 30px;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 900;
+    font-family: 'Roboto Condensed', Times, serif;
+}
+section{
+    display: flex;
+    max-width:800px;
+    padding: 0;
+}
+#one{
+    flex: 2;
+    padding: 110px;
+    text-align: center;
+}
+#two{
+    flex: 2;
+    padding: 110px;
+    text-align: center;
+}
+#three{
+    flex: 2;
+    padding: 110px; 
+    text-align: center;                 
+}
+h2{
+    margin-top: 20px;
+}
+li{
+    list-style: none;
+}

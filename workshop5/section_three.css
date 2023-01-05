@@ -1,0 +1,29 @@
+section{
+  display: flex;
+  
+}
+img{
+  flex:1;
+  max-width:700px;
+  max-height:700px;
+}
+#two{
+  background-color:cadetblue;
+  flex:1;
+  color: aliceblue;
+  text-align: center;
+}
+h1{
+  font-size: 90px;
+  padding: 20px;
+  font-style: normal;
+  font-weight: bolder;
+}
+
+  li{
+  list-style-type: none;
+  margin-left:80px;
+  font-size: 25px;
+  text-align:left;
+  
+  } 
