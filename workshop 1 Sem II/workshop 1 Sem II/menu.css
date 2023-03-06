@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(16, 213, 16);
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    border: 10px solid ;
+    border-color:rgb(198, 165, 199);
+    border-radius: 5px;
+    width: fit-content;
+    background-color:rgb(202, 225, 226);
+    margin-left: 600px;
+    margin-top: 20px;
+    
+
+}
+
+.pic{
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+
+
+
+
